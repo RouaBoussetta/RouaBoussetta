@@ -6,24 +6,27 @@
 
 - 🔭 Currently I’m Working As A Full Stack Developer At NAWANERA LLC
 - 🌱 Currently I’m Learning Flutter
-- 📬 How to reach me: [Let's get in touch!] [<img  alt="roua-boussetta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 📬 How to reach me: [Let's get in touch!] 👇
+  https://www.linkedin.com/in/roua-boussetta/
 - 💬 Ask Me About Whatever You Want
 
-### Languages and Tools:
 
+<h3 align="center">Languages and Frameworks</h3>
+<p align="center">
+   <img src="https://seeklogo.com/images/A/angular-logo-CF8B6B5B10-seeklogo.com.png" alt="angular" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="40" height="40"/> 
+    <img src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" alt="Symfony" width="40" height="40"/>
+  <img src="https://www.logolynx.com/images/logolynx/c5/c509c38cb89bcf556b2051222663f398.png" alt="NodeJs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo" width="40" height="40"/>
 
-<img align="left" alt="HTML5" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="js" width="35px" src="https://clement-nahmens.students-laplateforme.io/images/logo/Javascript.png" />
-<img align="left" alt="Bootstrap" width="31px" src="https://www.easy-micro.org/images/logiciels/web-frameworks/bootstrap-stack.png" />
-<img align="left" alt="Flutter" width="31px" src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png" />
+  
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> 
 
-<img align="left" alt="SpringBoot" width="31px" src="https://blog.talanlabs.com/microservices-partie-4-spring-boot/cover.png" />
-<img align="left" alt="React" width="40px" src="https://www.ubidreams.fr/wp-content/uploads/2020/06/logo-react-js.png" />
-<img align="left" alt="SQL" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Android" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1200px-Android_robot.svg.png" />
-<img align="left" alt="MongoDb" width="31px" src="https://www.pxpng.com/public/uploads/small/116089896921stskszgltblypypsqtf2tceem6ndptuimj1a8lgmst7met3bp8sxtp79jy27qyeaoratttbfc7zfmvpa7m2tmrej2oifkfl5apn.png" />
-<img align="left" alt="GitHub" width="31px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+ </p>
 
 
 
