@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-**RouaBoussetta/RouaBoussetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- <img align="right" alt="GIF" src="https://github.com/RouaBoussetta/RouaBoussetta/computer.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/RouaBoussetta/RouaBoussetta/blob/main/computer.gif" width="500" height="320" />
 
 Here are some ideas to get you started:
 
