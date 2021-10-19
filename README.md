@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
- <img align="right" alt="GIF" src="https://github.com/RouaBoussetta/RouaBoussetta/blob/main/computer.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/RouaBoussetta/RouaBoussetta/blob/main/computer.gif" />
 
 Here are some ideas to get you started:
 
