@@ -6,6 +6,7 @@
 
 - 🔭 Currently I’m Working As A Full Stack Developer At NAWANERA LLC
 - 🌱 Currently I’m Learning Flutter
+- 📬 How to reach me: [Let's get in touch!] [<img  alt="roua-boussetta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - 💬 Ask Me About Whatever You Want
 
 ### Languages and Tools:
